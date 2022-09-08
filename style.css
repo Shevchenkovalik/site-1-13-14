@@ -1,0 +1,90 @@
+.click {
+    color: black;
+    text-decoration: none;
+    display: flex;
+    padding-right: 10px;
+    padding-left: 10px;
+    height: 50px;
+}
+
+ul{
+    display: flex;
+}
+
+header  {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+}
+
+
+.Products{
+   
+    padding-right: 30px; 
+    padding-left: 650px;
+    color: black;
+    font-size: 20px;
+
+}
+
+.Company{
+    padding-right: 30px;
+    color: black;
+    font-size: 20px
+}
+
+.Support{
+    padding-right: 30px;
+    color: black;
+    font-size: 20px
+}
+
+.Docs{
+    padding-right: 80px;
+    color: black;
+    font-size: 20px 
+}
+.Login{
+    border: 5px blue solid ;
+    background: blue ;
+    color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.text1{
+    padding-right: 80px;
+}
+
+.sim{
+    text-decoration: underline;
+    text-decoration-color: #597BB2;
+}
+
+.box{
+    padding: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imeg{
+    padding: 1px 20px;
+}
+p{
+    font-size: 35px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.line{
+    border: 2px solid #D3DFF3;
+    background: #D3DFF3;
+    width: 80%;
+}
